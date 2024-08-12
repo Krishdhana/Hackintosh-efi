@@ -10,6 +10,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-BRG0.aml</string>
+				<key>Enabled</key>
+				<false/>
+				<key>Path</key>
+				<string>SSDT-BRG0.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-CPUR.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -23,6 +31,14 @@
 				<true/>
 				<key>Path</key>
 				<string>SSDT-EC.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-USBX.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-USBX.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -1521,13 +1537,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K926501CDK3F7AD</string>
+			<string>F5K3294054NK3F7JA</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>BEvtNTV8</data>
+			<data>HKunYxHU</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1535,9 +1551,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KYX9YLP7QM</string>
+			<string>F5KL3PYNP7QM</string>
 			<key>SystemUUID</key>
-			<string>7C44EFE3-8F07-4118-BE86-56BD8E7EBE4C</string>
+			<string>2E0D7A0E-9BC2-4AD6-8EB1-EB7233D82AF9</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
